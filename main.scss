@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
 body {
-    background: white;
+    background: #c64949;
     height: 50vh;
     display: grid;
     place-items: center;
@@ -397,7 +397,7 @@ body {
       opacity: 1;
     }
     75% {
-      transform: skew(0.4deg, 1deg);
+      transform: skew(0.6deg, 1deg);
       opacity: 0.75;
     }
     80% {
