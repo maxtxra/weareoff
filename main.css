@@ -494,15 +494,15 @@ footer {
   left: 0;
   font-family: "Roboto Mono", monospace;
 }
-footer .identification {
+footer .mtxdev {
   font-size: 14px;
   color: #aaa;
 }
-footer .identification a {
+footer .mtxdev a {
   color: #aaa;
   text-decoration: none;
 }
-footer .identification a:hover {
+footer .mtxdev a:hover {
   text-decoration: underline;
 }
 
